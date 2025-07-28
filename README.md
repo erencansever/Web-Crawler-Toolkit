@@ -3,6 +3,11 @@
 ![Scraping](https://img.shields.io/badge/Web-Scraping-orange?style=flat-square&logo=selenium)
 ![License](https://img.shields.io/github/license/kullaniciadi/web-crawler-toolkit?style=flat-square)
 
+<p align="center">
+  <img src="assets/preview.gif" alt="Crawler Preview" width="600"/>
+</p>
+
+
 
 # 🎯 Web Crawler Toolkit
 
