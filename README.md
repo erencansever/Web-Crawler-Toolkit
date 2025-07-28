@@ -1,3 +1,9 @@
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![Scraping](https://img.shields.io/badge/Web-Scraping-orange?style=flat-square&logo=selenium)
+![License](https://img.shields.io/github/license/kullaniciadi/web-crawler-toolkit?style=flat-square)
+
+
 # 🎯 Web Crawler Toolkit
 
 🕷️ **Web Crawler Toolkit**, dinamik ve kompleks web sitelerinden (örneğin: **Biletix**, **Etkinlik siteleri**, **JS-heavy sayfalar**) veri çekmek isteyenler için hazır Python betiklerinden oluşan modern bir araç kutusudur.
